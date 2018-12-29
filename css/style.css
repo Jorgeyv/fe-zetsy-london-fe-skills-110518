@@ -50,7 +50,11 @@ p {
 }
 
 #press img:hover {
-  border:;
+  border: 5px rgb(111,127,122) solid;
+}
+
+#press img {
+  border: ;
 }
 
 /* Write all remaining styles here */
