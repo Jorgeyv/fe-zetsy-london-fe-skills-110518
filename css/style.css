@@ -17,6 +17,9 @@ body {
 	padding: 0 45px 20px;
 }
 
-
+p {
+  color: #555;
+  
+}
 
 /* Write all remaining styles here */
