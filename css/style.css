@@ -40,6 +40,8 @@ p {
   font-size:1em;
   margin: 0 20px 0 0;
   display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em'
 }
 
 /* Write all remaining styles here */
