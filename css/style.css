@@ -17,8 +17,8 @@ body {
 	padding: 0 45px 20px;
 }
 
-header a:hover{
-  rgb(111,127,122)
+header a:hover {
+  color: rgb(111,127,122);
 }
 
 p {
