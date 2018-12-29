@@ -17,6 +17,10 @@ body {
 	padding: 0 45px 20px;
 }
 
+header a:hover{
+  
+}
+
 p {
   color: #555;
   font-size:1em;
