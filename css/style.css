@@ -40,10 +40,13 @@ p {
   font-size:1em;
   margin: 0 20px 0 0;
   display: block;
+}
+
+p {
   margin-block-start: 1em;
   margin-block-end: 1em;
   margin-inline-start: 0px;
-  margin-inline-end: 0px'
+  margin-inline-end: 0px;
 }
 
 /* Write all remaining styles here */
