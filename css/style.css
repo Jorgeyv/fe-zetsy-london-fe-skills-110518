@@ -17,4 +17,45 @@ body {
 	padding: 0 45px 20px;
 }
 
+header a {
+  color: rgb(152,173,166);
+  text-decoration: none;
+}
+
+header a:hover {
+  color: rgb(111,127,122);
+}
+
+#featured img {
+  border: 5px rgb(152,173,166) solid;
+}
+
+h2 {
+  color: rgb(111,127,122);
+  font-size:2em;
+}
+
+p {
+  color: #555;
+  font-size:1em;
+  margin: 0 20px 0 0;
+  display: block;
+}
+
+p {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+#press img:hover {
+  border: 5px rgb(111,127,122) solid;
+}
+
+#press img {
+  border: 5px #ccc solid;
+  padding: 1px;
+}
+
 /* Write all remaining styles here */
